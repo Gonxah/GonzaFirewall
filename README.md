@@ -1,3 +1,3 @@
 # minewall
 Firewall For Minecraft Server
-by angeliust
+by Gonza
